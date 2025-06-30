@@ -1,0 +1,17 @@
+
+node_modules
+
+**/chromeExtension/**/main.js
+**/chromeExtension/**/styles.js
+**/chromeExtension/**/styles.css
+**/chromeExtension/**/main.css
+.env
+
+**/.log
+**/.DS_Store
+**/.pub
+
+.DS_Store
+.DS_Store?
+webpack.config.js
+.idea
