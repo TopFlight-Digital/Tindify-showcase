@@ -2,7 +2,7 @@
 
 Full JavaScript bundle and formatted code provided
 
-## Want to try it out now? (web console Method):
+## Want to try it out now? (web console method):
 
 1. Open any Product Listing Page (PLP)
 2. Open your browser console (right click → Inspect → Console tab)
